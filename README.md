@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ssingh94
 - 👀 I’m interested in finding the intersection between humanity and technology - especially artificial intelligence.
 - 🌱 I’m currently working towards my Master's in Machine Learning.
-- 💞️ I’m looking to collaborate on ways to get more women in tech and create a better culture in tech. 
+- 💞️ I’m looking to collaborate on ways to get more womxn and POC in tech and create a richer, open-armed culture in tech. 
 - 📫 How to reach me shivanjali.singh94@gmail.com
